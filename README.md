@@ -8,5 +8,3 @@ Eu sou Robson Oliveira, sou um Programador Front End Junior, atualmente estou ap
 - <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="logo-java"/>
 - <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="logo-react"/>
 
-[![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=nomatec26-rgb)](https://github.com/anuraghazra/github-readme-stats)
-
