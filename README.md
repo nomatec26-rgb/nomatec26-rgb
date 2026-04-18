@@ -34,8 +34,8 @@ Sou apaixonado por tecnologia e desenvolvimento. Atualmente estou focado em evol
 
 ## 📬 Contato
 
-- LinkedIn: (coloca seu link aqui)
-- Email: (se quiser adicionar)
+- LinkedIn: www.linkedin.com/in/robson-oliveira-de-lima
+- Email: nomatec26@gmail.com
 
 ---
 
