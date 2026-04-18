@@ -1,6 +1,45 @@
 ## Hi there 👋
 
-Eu sou Robson Oliveira, sou um Programador Full Stack Junior, atualmente estou aprendendo e criando projetos com:
+# 👋 Olá, eu sou o Robson Oliveira
+
+💻 Programador Full Stack Júnior  
+🚀 Em constante evolução, criando projetos e aprimorando minhas habilidades diariamente.
+
+---
+
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento. Atualmente estou focado em evoluir como desenvolvedor Full Stack, construindo projetos práticos e aprendendo novas ferramentas todos os dias.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+---
+
+## 📈 Atualmente
+
+- 📚 Estudando desenvolvimento Full Stack
+- 🛠 Criando projetos para portfólio
+- 🎯 Buscando minha primeira oportunidade na área
+
+---
+
+## 📬 Contato
+
+- LinkedIn: (coloca seu link aqui)
+- Email: (se quiser adicionar)
+
+---
+
+✨ *Sempre buscando evolução e novos desafios!*
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
